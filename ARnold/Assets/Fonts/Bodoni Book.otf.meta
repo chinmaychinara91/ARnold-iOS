@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 438123f6ea2ab4560ba578052b8c5d3f
+timeCreated: 1505008396
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bodoni
+  fontNames:
+  - Bodoni
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
